@@ -1,0 +1,6 @@
+# No external dependencies required.
+# This project uses Python's standard libraries:
+# - os
+# - sys
+# - hashlib
+# - argparse
