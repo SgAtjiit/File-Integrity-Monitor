@@ -6,6 +6,7 @@ class Logger:
     Custom logger class to handle output with timestamps and levels.
     """
     INFO = "INFO"
+    WARNING = "WARNING"
     ALERT = "ALERT"
     ERROR = "ERROR"
     SUCCESS = "SUCCESS"
